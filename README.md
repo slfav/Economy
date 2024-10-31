@@ -1,6 +1,6 @@
 ## COMMANDS:
 **/balance**   
-**/balanceset** [player] [amount]
+**/balanceset** [player] [amount]  
 **/balanceremove** [player] [amount]  
 **/balanceadd** [player] [amount]   
 **/pay** [player] [amount]
